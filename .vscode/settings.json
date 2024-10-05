@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/toeeei/Library/Python/3.9/lib/python/site-packages",
+        "./src/combination_generator"
+    ]
+}
